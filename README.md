@@ -11,7 +11,11 @@ A comprehensive **Cisco Packet Tracer** lab simulation featuring a full enterpri
 
 ## 🎬 Simulation Demo
 
-https://github.com/Kazyaar-Faisal/Mega-Lab-Packet-Tracer/raw/main/Simulation.mp4
+> Watch the full network simulation below:
+
+<video src="https://github.com/Kazyaar-Faisal/Mega-Lab-Packet-Tracer/raw/main/Simulation.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
 
 ## 🚀 How to Use
 
